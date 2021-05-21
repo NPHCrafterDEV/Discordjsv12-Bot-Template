@@ -1,7 +1,8 @@
 {
   "token": "", //your bot token
   "prefix": "", //your bot's prefix
-  "ownername":"" //set your name here
-  
- 
+  "Owner": {
+    "ownername": "" //set your name here
+    "ownerid": "" //set your name here
+  }
 }
