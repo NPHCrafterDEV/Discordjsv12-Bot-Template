@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const fs = require('fs')
-const config = JSON.parse(fs.readFileSync('config.json', 'utf8'))
+const config = require('./config.json')
 const client = new Discord.Client()
 const fetch = require('node-fetch');
 
