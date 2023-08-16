@@ -1,1 +1,1 @@
-This Template is created by NPH_Crafter#9004. Contact me on Discord if you have a Problem ! This Template has a simple command handler. To set up your bot go to config.json and fill in your Bot Token, your Discord name and the Prefix!  
+This Template has a simple command handler. To set up your bot go to config.json and fill in your Bot Token, your Discord name and the Prefix!  
